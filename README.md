@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alannah Bennett</h1>
 <h3 align="center">Passionate about backend software engineering</h3>
-<img align="right" alt="codinggif" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif">
 
 - 🌱 I’m currently learning **python, java and javascript**
 
